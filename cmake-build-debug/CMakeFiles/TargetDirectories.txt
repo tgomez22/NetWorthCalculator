@@ -1,0 +1,3 @@
+/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/CMakeFiles/NetWorthCalculator.dir

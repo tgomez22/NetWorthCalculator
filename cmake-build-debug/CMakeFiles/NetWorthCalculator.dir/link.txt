@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/NetWorthCalculator.dir/main.cpp.o CMakeFiles/NetWorthCalculator.dir/Person.cpp.o CMakeFiles/NetWorthCalculator.dir/Address.cpp.o  -o NetWorthCalculator 

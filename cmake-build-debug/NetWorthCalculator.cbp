@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="NetWorthCalculator"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NetWorthCalculator">
+				<Option output="/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/NetWorthCalculator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 NetWorthCalculator"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NetWorthCalculator/fast">
+				<Option output="/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/NetWorthCalculator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 NetWorthCalculator/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/magos-gomez/CLionProjects/NetWorthCalculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/magos-gomez/CLionProjects/NetWorthCalculator/Address.cpp">
+			<Option target="NetWorthCalculator"/>
+		</Unit>
+		<Unit filename="/home/magos-gomez/CLionProjects/NetWorthCalculator/Address.h">
+			<Option target="NetWorthCalculator"/>
+		</Unit>
+		<Unit filename="/home/magos-gomez/CLionProjects/NetWorthCalculator/Person.cpp">
+			<Option target="NetWorthCalculator"/>
+		</Unit>
+		<Unit filename="/home/magos-gomez/CLionProjects/NetWorthCalculator/Person.h">
+			<Option target="NetWorthCalculator"/>
+		</Unit>
+		<Unit filename="/home/magos-gomez/CLionProjects/NetWorthCalculator/main.cpp">
+			<Option target="NetWorthCalculator"/>
+		</Unit>
+		<Unit filename="/home/magos-gomez/CLionProjects/NetWorthCalculator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
